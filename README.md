@@ -1,1 +1,0 @@
-# haker rank solution
