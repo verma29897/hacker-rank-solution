@@ -1,1 +1,1 @@
-# vsc
+# haker rank solution
